@@ -1,0 +1,106 @@
+<resources>
+
+    <string name="app_name">Quiz App</string>
+
+
+    <!--EditTextView-->
+
+    <string name="name">Player Name</string>
+
+
+    <!-- Question One -->
+
+
+    <string name="question_one">1. Community development project can achieved if the people are?.</string>
+
+    <string name="question_one_option_a">A. Religious</string>
+
+    <string name="question_one_option_b">B. Optimistic</string>
+
+    <string name="question_one_option_c">C. Knowledgeable</string>
+
+    <string name="question_one_option_d">D. Cooperative</string>
+
+
+    <!-- Question Two -->
+
+
+    <string name="question_two">2. When there is a dispute in the community, the members should be?</string>
+
+    <string name="question_two_option_a">A. Indifferent</string>
+
+    <string name="question_two_option_b">B. Cooperative</string>
+
+    <string name="question_two_option_c">C. Be Resolute</string>
+
+    <string name="question_two_option_d">D. Leave</string>
+
+
+
+    <!-- Question Three -->
+
+
+    <string name="question_three">3. Which of the following is an acceptable societal value?</string>
+
+    <string name="question_three_option_a">A. Praise</string>
+
+    <string name="question_three_option_b">B. Honesty</string>
+
+    <string name="question_three_option_c">C. Merriment</string>
+
+    <string name="question_three_option_d">D. Party</string>
+
+
+    <!-- Question Four -->
+
+
+    <string name="question_four">4. Which is an effective way to resolve conflict?</string>
+
+    <string name="question_four_option_a">A. Dialogue</string>
+
+    <string name="question_four_option_b">B. Avoidance</string>
+
+    <string name="question_four_option_c">C. Meditation</string>
+
+    <string name="question_four_option_d">D. Avoidance</string>
+
+
+    <!-- Question Five -->
+
+
+    <string name="question_five">5.  What is the opposite of hate?</string>
+
+    <string name="question_five_option_a">A. Neighbor</string>
+
+    <string name="question_five_option_b">B. Friends</string>
+
+    <string name="question_five_option_c">C. Family</string>
+
+    <string name="question_five_option_d">D. Love</string>
+
+
+    <!-- Question six -->
+
+
+    <string name="question_six">6.  Love is a universal language?</string>
+
+    <string name="question_six_true_option">True</string>
+
+    <string name="question_six_false_option">False</string>
+
+
+
+
+    <!--Score TextView-->
+
+
+    <string name="score_text">Score</string>
+
+    <string name="score">0</string>
+
+    <!--Submit Button-->
+
+
+    <string name="submit">Submit</string>
+
+</resources>
